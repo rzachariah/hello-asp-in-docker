@@ -1,3 +1,3 @@
 # hello-asp-in-docker
 
-Hello world program built with ASP vNext and hosted in a docker container
+Hello world program built with dot net core and hosted in a docker container
